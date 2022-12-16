@@ -12,7 +12,7 @@
 ## Operation Instruction
 * Please run the code from the top one after the other
 
-## Copyright and Licensing Information
+## Copyright and License Information
 * MIT License
 
 ## Contact Information
