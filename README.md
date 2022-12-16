@@ -9,6 +9,12 @@
 * DecisionTree
 * ExtraTrees
 
+## Operation Instruction
+* Please run the code from the top one after the other
+
+## Copyright and Licensing Information
+* MIT License
+
 ## Contact Information
 * Name: 이정민
 * School ID: 20221396
